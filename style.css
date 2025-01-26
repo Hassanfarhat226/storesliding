@@ -79,31 +79,6 @@ body {
   background-image: url("Image 7.png");
 }
 
-.item9 {
-  background-image: url("Image 8.png");
-}
-.item10 {
-  background-image: url("image4.png");
-}
-.item11 {
-  background-image: url("image5.png");
-}
-.item12 {
-  background-image: url("image6.png");
-}
-.item13 {
-  background-image: url("image1.png");
-}
-.item14 {
-  background-image: url("image2.png");
-}
-.item15 {
-  background-image: url("image3.png");
-}
-.item16 {
-  background-image: url("image4.png");
-}
-
 .itemLeft {
   left: max(calc(250px * 8), 100%);
   animation-name: scrollLeft;
@@ -143,38 +118,6 @@ body {
 }
 
 .item8 {
-  animation-delay: calc(60s / 8 * (8 - 8) * -1);
-}
-
-.item9 {
-  animation-delay: calc(60s / 8 * (8 - 1) * -1);
-}
-
-.item10 {
-  animation-delay: calc(60s / 8 * (8 - 2) * -1);
-}
-
-.item11 {
-  animation-delay: calc(60s / 8 * (8 - 3) * -1);
-}
-
-.item12 {
-  animation-delay: calc(60s / 8 * (8 - 4) * -1);
-}
-
-.item13 {
-  animation-delay: calc(60s / 8 * (8 - 5) * -1);
-}
-
-.item14 {
-  animation-delay: calc(60s / 8 * (8 - 6) * -1);
-}
-
-.item15 {
-  animation-delay: calc(60s / 8 * (8 - 7) * -1);
-}
-
-.item16 {
   animation-delay: calc(60s / 8 * (8 - 8) * -1);
 }
 
