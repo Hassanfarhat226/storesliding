@@ -1,0 +1,388 @@
+{
+  "sections": {
+    "e01e6c3e-b2aa-48cd-85d8-8991966dc74d": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Pethome1.png",
+        "image_2": "shopify:\/\/shop_images\/Pethomemobile1.png",
+        "image_link": "shopify:\/\/collections\/all",
+        "parallax-effect": false,
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "section_width": "full",
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
+    },
+    "16644360369d9ee49d": {
+      "type": "rich-text",
+      "blocks": {
+        "16644360361fe00cc5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Daily essentials for every pet",
+            "heading_size": "h1"
+          }
+        },
+        "9ae56201-a9a6-453a-9d38-377ea4343611": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Driven by solving pain points, we obsessed over what was working and what wasn’t to create a place that didn't leave you choosing between design, convenience and affordability.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16644360361fe00cc5-0",
+        "9ae56201-a9a6-453a-9d38-377ea4343611"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": false
+      }
+    },
+    "165508772875232d68": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Shop our New Arrivals",
+        "collection": "frontpage",
+        "products_to_show": 4,
+        "show_view_all": false,
+        "swipe_on_mobile": false,
+        "content_alignment": "center",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": true
+      }
+    },
+    "5a660df6-a025-4a51-89b8-3b64b354874d": {
+      "type": "image-with-text",
+      "blocks": {
+        "1bbaf03a-15b3-4574-b0a4-7da7477b08fc": {
+          "type": "caption",
+          "settings": {
+            "caption": "brand story",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--15550903058477__5a660df6-a025-4a51-89b8-3b64b354874d-1683776008f1586c98-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "We exist to help enrich the lives of both dog & human",
+            "heading_size": "h1"
+          }
+        },
+        "template--15550903058477__5a660df6-a025-4a51-89b8-3b64b354874d-1683776008f1586c98-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We believe our pets are an absolute essential—to our family, to our wellbeing & to our lives.<\/p><p>They're with us through thick & thin, rain & shine—and lots of mud! The reciprocal, give & take relationship between pet & human is something to be celebrated. So, we set out to design everyday essentials that considers both of your needs, equally. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--15550903058477__5a660df6-a025-4a51-89b8-3b64b354874d-1683776008f1586c98-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn More",
+            "button_link": "shopify:\/\/pages\/brand-story"
+          }
+        }
+      },
+      "block_order": [
+        "1bbaf03a-15b3-4574-b0a4-7da7477b08fc",
+        "template--15550903058477__5a660df6-a025-4a51-89b8-3b64b354874d-1683776008f1586c98-0",
+        "template--15550903058477__5a660df6-a025-4a51-89b8-3b64b354874d-1683776008f1586c98-1",
+        "template--15550903058477__5a660df6-a025-4a51-89b8-3b64b354874d-1683776008f1586c98-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Pethome2.png",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    },
+    "8c41ad6d-6558-4f59-bed4-6a0267f2e780": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15550903058477__8c41ad6d-6558-4f59-bed4-6a0267f2e780-16837761545b1e7693-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Explore our Featured Collections",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--15550903058477__8c41ad6d-6558-4f59-bed4-6a0267f2e780-16837761545b1e7693-0"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": false
+      }
+    },
+    "89c5b8f7-9a1b-4def-a6da-c589d4592d99": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16082457624765__89c5b8f7-9a1b-4def-a6da-c589d4592d99-1676608555ba43a9d0-2": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "The Collar",
+            "link": "shopify:\/\/collections\/all"
+          }
+        },
+        "template--16082457624765__89c5b8f7-9a1b-4def-a6da-c589d4592d99-1676608555ba43a9d0-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "The Harness",
+            "link": "shopify:\/\/collections\/all"
+          }
+        },
+        "template--16082457624765__89c5b8f7-9a1b-4def-a6da-c589d4592d99-1676608555ba43a9d0-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "The Lead",
+            "link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "template--16082457624765__89c5b8f7-9a1b-4def-a6da-c589d4592d99-1676608555ba43a9d0-2",
+        "template--16082457624765__89c5b8f7-9a1b-4def-a6da-c589d4592d99-1676608555ba43a9d0-1",
+        "template--16082457624765__89c5b8f7-9a1b-4def-a6da-c589d4592d99-1676608555ba43a9d0-0"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "square",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "swipe_on_desktop": true
+      }
+    },
+    "26b637e9-caaa-4deb-bef0-62a14711edac": {
+      "type": "image-with-text",
+      "blocks": {
+        "947fbc40-19f9-4619-9bdd-3084f393276d": {
+          "type": "caption",
+          "settings": {
+            "caption": "Our Commitment",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--16886772465878__26b637e9-caaa-4deb-bef0-62a14711edac-16820468951f577de0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Change a dog’s life with every order",
+            "heading_size": "h1"
+          }
+        },
+        "template--16886772465878__26b637e9-caaa-4deb-bef0-62a14711edac-16820468951f577de0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We believe all dogs deserve a happy & healthy life—so, we've committed to donating a portion of every sale to a trusted animal shelter.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16886772465878__26b637e9-caaa-4deb-bef0-62a14711edac-16820468951f577de0-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Our Products",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "947fbc40-19f9-4619-9bdd-3084f393276d",
+        "template--16886772465878__26b637e9-caaa-4deb-bef0-62a14711edac-16820468951f577de0-0",
+        "template--16886772465878__26b637e9-caaa-4deb-bef0-62a14711edac-16820468951f577de0-1",
+        "template--16886772465878__26b637e9-caaa-4deb-bef0-62a14711edac-16820468951f577de0-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Pethome3.png",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left"
+      }
+    },
+    "29355c71-8a97-4968-92fd-81fbbdf63236": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Dog Collars Collection",
+        "collection": "frontpage",
+        "products_to_show": 4,
+        "show_view_all": false,
+        "swipe_on_mobile": false,
+        "content_alignment": "center",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": true
+      }
+    },
+    "16642473479a26d11e": {
+      "type": "rich-text",
+      "blocks": {
+        "16642473471efb1f88-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Love from our customers",
+            "heading_size": "h1"
+          }
+        },
+        "16642473471efb1f88-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In the interest of transparency, we do not use incentives to influence positive reviews; and because we follow strict privacy policies, we never link to a review unless it has been shared <strong>publicly<\/strong> by the reviewer.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16642473471efb1f88-0",
+        "16642473471efb1f88-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
+    },
+    "16642473710c931f3a": {
+      "type": "multicolumn",
+      "blocks": {
+        "1664247371598b7942-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5stars.png",
+            "title": "Love my purchase",
+            "text": "<p>\"Here you could write the review and opinion from the person above.\"<\/p><p><strong>Anick L.<\/strong><\/p>",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/frontpage"
+          }
+        },
+        "1664247371598b7942-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5stars.png",
+            "title": "Love it so much",
+            "text": "<p>\"Here you could write the review and opinion from the person above.\"<\/p><p><strong>Wendy W.<\/strong><\/p>",
+            "link_label": "",
+            "link": "shopify:\/\/products\/test"
+          }
+        },
+        "1664247371598b7942-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5stars.png",
+            "title": "I will definitely buy again",
+            "text": "<p>\"Here you could write the review and opinion from the person above.\"<\/p><p><strong>Jessica R.<\/strong><\/p>",
+            "link_label": "",
+            "link": "shopify:\/\/pages\/contact"
+          }
+        }
+      },
+      "block_order": [
+        "1664247371598b7942-0",
+        "1664247371598b7942-1",
+        "1664247371598b7942-2"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": false,
+        "swipe_on_desktop": true
+      }
+    },
+    "190201fc-df10-4b3c-a9b1-2b60f7ac92b5": {
+      "type": "newsletter",
+      "blocks": {
+        "template--15550903058477__190201fc-df10-4b3c-a9b1-2b60f7ac92b5-1683776591f4042eee-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Stay Connected"
+          }
+        },
+        "template--15550903058477__190201fc-df10-4b3c-a9b1-2b60f7ac92b5-1683776591f4042eee-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Sign up for exclusive offers and a heads up on new things. We promise to only send you the good stuff.<\/p>"
+          }
+        },
+        "template--15550903058477__190201fc-df10-4b3c-a9b1-2b60f7ac92b5-1683776591f4042eee-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--15550903058477__190201fc-df10-4b3c-a9b1-2b60f7ac92b5-1683776591f4042eee-0",
+        "template--15550903058477__190201fc-df10-4b3c-a9b1-2b60f7ac92b5-1683776591f4042eee-1",
+        "template--15550903058477__190201fc-df10-4b3c-a9b1-2b60f7ac92b5-1683776591f4042eee-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": false
+      }
+    },
+    "16420449961d188765": {
+      "type": "featured-blog",
+      "disabled": true,
+      "settings": {
+        "heading": "Latest from our Blog",
+        "blog": "inspired-paw-blog",
+        "post_limit": 3,
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "soft_background": false,
+        "show_view_all": false
+      }
+    }
+  },
+  "order": [
+    "e01e6c3e-b2aa-48cd-85d8-8991966dc74d",
+    "16644360369d9ee49d",
+    "165508772875232d68",
+    "5a660df6-a025-4a51-89b8-3b64b354874d",
+    "8c41ad6d-6558-4f59-bed4-6a0267f2e780",
+    "89c5b8f7-9a1b-4def-a6da-c589d4592d99",
+    "26b637e9-caaa-4deb-bef0-62a14711edac",
+    "29355c71-8a97-4968-92fd-81fbbdf63236",
+    "16642473479a26d11e",
+    "16642473710c931f3a",
+    "190201fc-df10-4b3c-a9b1-2b60f7ac92b5",
+    "16420449961d188765"
+  ]
+}
