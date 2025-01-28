@@ -78,11 +78,6 @@ body {
   animation-name: scrollLeft;
 }
 
-.itemRight {
-  right: max(calc(250px * 8), calc(100% + 250px));
-  animation-name: scrollRight;
-}
-
 .item1 {
   animation-delay: calc(60s / 8 * (8 - 1) * -1);
 }
