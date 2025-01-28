@@ -6,43 +6,48 @@
 
 * {
   margin: 0;
-  padding: 0;
 }
 
 body {
   background-color: #030712;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  overflow: hidden;
 }
 
 .wrapper {
-  width: 100%;
+  margin-top: 2rem;
+  width: 90%;
   max-width: 1536px;
+  margin-inline: auto;
   height: 125px;
   position: relative;
   overflow: hidden;
+  mask-image: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 1) 20%,
+    rgba(0, 0, 0, 1) 80%,
+    rgba(0, 0, 0, 0)
+  );
 }
 
-.scroll-container {
-  display: flex;
-  position: absolute;
-  width: calc(250px * 16); 
-  animation: scrollLeft 20s linear infinite;
+@keyframes scrollLeft {
+  to {
+    left: -250px;
+  }
 }
 
-.scroll-container .item {
+.itemLeft,
+.itemRight {
   width: 250px;
   height: 125px;
-  background-size: cover;
-  background-position: center;
-  flex-shrink: 0;
   border-radius: 6px;
+  position: absolute;
+  animation-timing-function: linear;
+  animation-duration: 60s;
+  animation-iteration-count: infinite;
+  background-size: 250px 125px;
+  background-position: no-repeat;
 }
 
-/* Add your image URLs here */
 .item1 {
   background-image: url("Image 1.png");
 }
@@ -65,14 +70,51 @@ body {
   background-image: url("Image 7.png");
 }
 .item8 {
-  background-image: url("Image 8.png");
+  background-image: url("Image 7.png");
 }
 
-@keyframes scrollLeft {
-  0% {
-    transform: translateX(0);
-  }
-  100% {
-    transform: translateX(-2000px); 
-  }
+.itemLeft {
+  left: max(calc(250px * 8), 100%);
+  animation-name: scrollLeft;
+}
+
+.itemRight {
+  right: max(calc(250px * 8), calc(100% + 250px));
+  animation-name: scrollRight;
+}
+
+.item1 {
+  animation-delay: calc(60s / 8 * (8 - 1) * -1);
+}
+
+.item2 {
+  animation-delay: calc(60s / 8 * (8 - 2) * -1);
+}
+
+.item3 {
+  animation-delay: calc(60s / 8 * (8 - 3) * -1);
+}
+
+.item4 {
+  animation-delay: calc(60s / 8 * (8 - 4) * -1);
+}
+
+.item5 {
+  animation-delay: calc(60s / 8 * (8 - 5) * -1);
+}
+
+.item6 {
+  animation-delay: calc(60s / 8 * (8 - 6) * -1);
+}
+
+.item7 {
+  animation-delay: calc(60s / 8 * (8 - 7) * -1);
+}
+
+.item8 {
+  animation-delay: calc(60s / 8 * (8 - 8) * -1);
+}
+
+.wrapper:nth-of-type(3) .itemLeft {
+  left: max(calc(250px * 8), 100%);
 }
