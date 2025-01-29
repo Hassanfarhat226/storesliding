@@ -31,7 +31,7 @@ body {
 
 @keyframes scrollLeft {
   to {
-    left: -250px;
+    left: -300px;
   }
 }
 
@@ -73,7 +73,7 @@ body {
 }
 
 .itemLeft {
-  left: max(calc(250px * 8), 100%);
+  left: max(calc(300px * 8), 100%);
   animation-name: scrollLeft;
 }
 
