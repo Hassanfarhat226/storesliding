@@ -36,8 +36,8 @@ body {
 }
 
 .itemLeft {
-  width: 250px;
-  height: 125px;
+  width: 300px;
+  height: 150px;
   border-radius: 6px;
   position: absolute;
   animation-timing-function: linear;
